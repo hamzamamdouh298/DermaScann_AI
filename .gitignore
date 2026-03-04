@@ -1,0 +1,22 @@
+# Node / Expo
+node_modules/
+.expo/
+.expo-shared/
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archives and design assets
+*.zip
+*.rar
+
