@@ -1,4 +1,20 @@
-# DermaScann_AI
+# DermaScann_AI (Flutter)
 
-AI-powered skin lesion tracking app built with Expo React Native.
+Flutter app for AI-powered skin lesion tracking and risk assessment.
+
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
+
+## Build APK (Android)
+
+```bash
+flutter build apk --debug
+```
+
+APK output:
+`build/app/outputs/flutter-apk/app-debug.apk`
 
